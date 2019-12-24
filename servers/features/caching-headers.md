@@ -11,7 +11,7 @@ redirect_from:
 ktor_version_review: 1.0.0
 ---
 
-The CachingOptions feature adds the ability to send the headers `Cache-Control` and `Expires`
+The CachingHeaders feature adds the ability to send the headers `Cache-Control` and `Expires`
 used by clients and proxies to cache requests in an easy way.
 
 {% include feature.html %}
